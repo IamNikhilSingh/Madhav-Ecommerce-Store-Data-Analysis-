@@ -20,5 +20,10 @@ Excel and Power BI
 
 Features/Highlights:Solve Business Problems and provide Insights
 
+•Sum of Profit 
+•Sum of Amount by State 
+•Sum of Quantity by Payment Mode
 
-Dashboard Preview - [https://github.com/IamNikhilSingh/Amazon-Sales-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
+
+
+Dashboard Preview - [https://github.com/IamNikhilSingh/Madhav-Ecommerce-Store-Data-Analysis-/blob/main/Snapshot%20of%20the%20Dashboard.jpg]
